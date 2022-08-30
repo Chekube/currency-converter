@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+    <link rel="stylesheet" href="converter.css">
+    <title>CORRENCY CONVERTER</title>
+    </head>
 <body>
     <h1>CURRENCY CONVERTER</h1>
     <div class="container">
@@ -41,7 +42,7 @@
                 <option value="US Dollar">USD</option>
             </select>
         </div>
-        
+
         <div>
             <button type="submit" name="convert">Convert</button>
         </div>
